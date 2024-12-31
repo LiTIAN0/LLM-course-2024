@@ -1,1 +1,1 @@
-Codes for labs
+Code for labs
